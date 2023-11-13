@@ -1,3 +1,7 @@
+// Write a C++ program that uses functions to perform the following operations:
+// i. To insert a sub string into a given main string from a given position.
+// ii. To delete n characters from a given position in a given string.
+
 #include<iostream>
 #include<string>
 using namespace std;
