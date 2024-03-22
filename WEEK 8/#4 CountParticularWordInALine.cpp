@@ -19,9 +19,11 @@ int main()
     {
         count++;
         found = line.find(word, found+1);
+        cout<<found<<endl;
     }
 
     cout<<endl<<word<<" is repeated "<<count<<" times in your line.";
+    
     
     return 0;
 }
